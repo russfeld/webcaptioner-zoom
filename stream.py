@@ -14,7 +14,7 @@ from apscheduler.schedulers.background import BackgroundScheduler
 DEBUG = False
 PORT = 9999
 LINE_LENGTH = 80
-ZOOM_API_TOKEN = "https://wmcc.zoom.us/closedcaption?id=94803649358&ns=Q0lTIDUyNyAtIFJpY2hhcmQ&expire=86400&sparams=id%2Cns%2Cexpire&signature=8eOpjksiKROqbO8qyTKegEtcidJGJCrNoNbYUZZStak.EwEAAAFzMEmsvQABUYAYODFkZFc0MlpoQ0JPVWxrN2NGRXFCQT09IHREb29TdmlpRFJVd0g3TDlOdUVxckdTbkhzbEszOG0x"
+ZOOM_API_TOKEN = "TOKEN"
 LANGAUGE = "en-US"  # Language code - ISO country code, e.g. de-DE.
 counter = 0
 
