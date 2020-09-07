@@ -1,3 +1,11 @@
+# Update September 7, 2020
+
+It looks like this feature is now integrated directly into WebCaptioner! So, most likley this repository will be abandoned as it has served its purpose.
+
+https://webcaptioner.com/blog/2020/09/september-2020-updates/
+
+Go buy that developer a coffee instead!
+
 # webcaptioner-zoom
 
 Stream caption requests from Web Captioner to Zoom Meeting by combining [jlacson/webcaptioner-stream](https://github.com/jlacson/webcaptioner-stream) and [Zoom API](https://support.zoom.us/hc/en-us/articles/115002212983-Integrating-a-third-party-closed-captioning-service).
